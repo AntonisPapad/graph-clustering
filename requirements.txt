@@ -1,0 +1,11 @@
+matplotlib
+networkx
+numpy
+openpyxl
+pandas
+python-louvain
+scikit-learn
+scipy
+seaborn
+scikit-learn
+gensim
